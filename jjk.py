@@ -1,3 +1,5 @@
 print ("Gojo")
 print ("Yuji")
 print ("Sukuna")
+print ("Toji")
+print ("Geto")
